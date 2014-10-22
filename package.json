@@ -1,0 +1,18 @@
+{
+  "name": "webyatri-inception",
+  "version": "1.0.0",
+  "title": "Inception - Responsive Multi-Purpose Theme",
+  "description": "Inception is a Simple, Clean, Flat Fully Responsive and Translation Ready WordPress theme. — Edit",
+  "main": "Gruntfile.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/webyatrisolution/Inception-WordPress-Theme.git"
+  },
+  "author": "WebYatri <webyatri@gmail.com> (http://webyatri.com)",
+  "license": "GPL+v3",
+  "homepage": "https://github.com/webyatrisolution/Inception-WordPress-Theme",
+  "engines": {
+    "node": ">=0.10.0",
+    "npm": ">=1.4.0"
+  }
+}
